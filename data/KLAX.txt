@@ -1,0 +1,6 @@
+STATION: KLAX
+STATION NAME: Los Angeles, Los Angeles International Airport
+LATITUDE: 33.93806
+LONGITUDE: -118.38889
+ELEVATION [ft]: 125
+
